@@ -38,8 +38,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="387.04597"
-     inkscape:cy="306.67765"
+     inkscape:cx="376.41675"
+     inkscape:cy="306.97501"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -806,5 +806,36 @@
        inkscape:export-xdpi="101.51873"
        inkscape:export-ydpi="101.51873"
        inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\logo-mobile.png" />
+    <path
+       style="fill:#2c4051;fill-opacity:1;fill-rule:evenodd;stroke:#2c4051;stroke-width:0.9565922px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 358.0769,791.10229 c -37.14726,-3.51685 -51.54988,0.27665 -53.31104,-5.08363 -3.74696,-18.27813 18.80044,-39.91227 14.06045,-34.94212 11.48992,-4.21842 -19.8494,38.67994 -7.4253,33.05945 21.55742,-8.64961 68.14052,8.00257 46.67589,6.9663 z"
+       id="path6218-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:0.93999999;fill:#ffffff;fill-opacity:1;stroke:#f67f21;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6277"
+       width="15.920213"
+       height="26.277357"
+       x="-56.566906"
+       y="796.2002"
+       transform="matrix(0.89134327,-0.45332899,0.45332899,0.89134327,0,0)" />
+    <circle
+       style="opacity:0.93999999;fill:#ffffff;fill-opacity:1;stroke:#f67f21;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6279"
+       cx="327.85712"
+       cy="751.64783"
+       r="1.0714285" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f67f21;stroke-width:1.2322892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 316.21875,735.83145 5.24107,-2.83134"
+       id="path6313"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:0.93999999;fill:#ffffff;fill-opacity:1;stroke:#f67f21;stroke-width:0.54500002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6279-4"
+       cx="323.75"
+       cy="731.4693"
+       r="0.58441556" />
   </g>
 </svg>
