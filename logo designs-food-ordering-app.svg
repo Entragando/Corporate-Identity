@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="337.26138"
-     inkscape:cy="794.86179"
+     inkscape:zoom="1.979899"
+     inkscape:cx="409.99546"
+     inkscape:cy="895.80704"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -208,11 +208,11 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f67f21;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4268-5"
        sodipodi:linespacing="125%"
-       transform="matrix(0.95465197,0,0,0.95465197,44.962329,-324.69248)"><textPath
+       transform="matrix(0.9540999,0.03246171,-0.03246171,0.9540999,75.409206,-335.32178)"><textPath
          xlink:href="#path4363"
          id="textPath4365"><tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:GalanoGrotesqueAlt-BoldItalic;-inkscape-font-specification:'GalanoGrotesqueAlt-BoldItalic Italic';fill:#f67f21;fill-opacity:1"
-   id="tspan4270-2">                                                   Entrangando</tspan></textPath></text>
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:GalanoGrotesqueAlt-BoldItalic;-inkscape-font-specification:'GalanoGrotesqueAlt-BoldItalic Italic';fill:#f67f21;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan4270-2">                                                   Entragando</tspan></textPath></text>
     <path
        style="fill:#2c79ba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 459.15732,140.38983 c -46.15035,-8.81597 -91.98814,-9.69104 -137.59514,-4.70307 44.13615,-7.96059 89.32104,-10.14134 137.59514,4.70307 z"
@@ -235,19 +235,6 @@
          id="tspan4337"
          x="477.85715"
          y="504.14792" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c79ba;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="511.72913"
-       y="44.284954"
-       id="text4268-5-7"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.96433953,0.26466822,-0.26466822,0.96433953,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4270-2-4"
-         x="511.72913"
-         y="44.284954"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:GalanoGrotesqueAlt-BoldItalic;-inkscape-font-specification:'GalanoGrotesqueAlt-BoldItalic Italic';fill:#2c79ba;fill-opacity:1">!</tspan></text>
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.92115408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4363"
@@ -459,5 +446,105 @@
          x="274.90845"
          y="998.21466"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:GalanoGrotesqueAlt-BoldItalic;-inkscape-font-specification:'GalanoGrotesqueAlt-BoldItalic Italic';fill:#f67f21;fill-opacity:1">Entrangando!</tspan></text>
+    <path
+       style="fill:#f67f21;fill-opacity:1;fill-rule:evenodd;stroke:#f67f21;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 533.74269,253.36796 23.04967,19.66301 c 9.75697,-21.21818 22.1571,-32.84488 38.42123,-30.44979 12.58347,15.92281 26.0119,25.49438 41.43903,24.63434 5.64829,10.34478 8.96011,8.40789 12.7934,9.21206 l -2.25223,-29.06435 c -3.77625,0.59581 -5.01847,2.32877 -15.43502,3.13803 -5.91115,0.79041 -14.1329,-3.0103 -18.64187,-4.97372 4.89164,0.38526 7.41506,0.50139 18.54173,2.19473 2.71536,-1.71336 4.62814,-4.40506 0.45477,-8.0773 l -68.59949,-9.9893 c -2.19367,-0.22926 -10.1701,2.65382 -2.09857,8.31441 l 4.03569,0.54304 c -8.58268,4.29683 -13.05289,8.63231 -16.2852,12.97945 -9.58679,-3.4021 -11.42074,0.2188 -15.42314,1.87539 z"
+       id="path4147-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:#f67f21;fill-opacity:1;fill-rule:evenodd;stroke:#f67f21;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 565.62434,218.07865 64.23769,17.27221 c 1.38349,-15.46898 -0.13407,-30.06122 -20.08905,-39.08148 -0.51165,-6.81521 -5.8242,-4.50037 -7.30905,-1.58401 -21.07413,-0.73684 -29.55037,10.75224 -36.83959,23.39328 z"
+       id="path4149-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 628.15521,201.99829 27.77797,0.26116"
+       id="path4153-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 634.91645,208.12305 28.28539,0.0134"
+       id="path4155-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 639.94289,237.42683 16.92168,-0.0935"
+       id="path4157-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 647.73683,243.32755 16.92169,-0.0935"
+       id="path4159-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 655.0055,249.20453 16.92168,-0.0935"
+       id="path4161-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 568.68449,216.26594 7.72407,2.11097 c 2.98282,-8.55215 8.23251,-17.06985 14.70604,-20.87282 -4.34861,-0.24535 -14.92134,4.90857 -22.43011,18.76185 z"
+       id="path4235-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:#2c79ba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 667.24236,296.59099 c -46.15035,-8.81597 -91.98814,-9.69104 -137.59514,-4.70307 44.13615,-7.96059 89.32104,-10.14134 137.59514,4.70307 z"
+       id="path4301-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 622.02408,196.00575 27.77797,0.26116"
+       id="path4153-4-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:0.16556409px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 593.92764,312.19645 17.76176,0.002"
+       id="path4161-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#2c79ba;stroke-width:0.16556409px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 593.42257,168.81149 17.76176,0.002"
+       id="path4161-2-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\alec\Documents\GitHub\main\assets\images\default-image-merchant.png"
+       inkscape:export-xdpi="107.20817"
+       inkscape:export-ydpi="107.20817" />
   </g>
 </svg>
